@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Social Media",
+    "slug": "rn-social-media",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": { "backgroundColor": "#1a1a2e" },
+    "ios": { "bundleIdentifier": "com.solaris.rn-social-media", "supportsTablet": true },
+    "android": { "package": "com.solaris.rn_social_media", "adaptiveIcon": { "backgroundColor": "#1a1a2e" } },
+    "plugins": ["expo-router"]
+  }
+}

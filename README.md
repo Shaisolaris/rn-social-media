@@ -1,5 +1,7 @@
 # rn-social-media
 
+![CI](https://github.com/Shaisolaris/rn-social-media/actions/workflows/ci.yml/badge.svg)
+
 React Native social media app built with Expo featuring an Instagram-style feed with stories, posts with likes/comments/bookmarks, user profiles with follower stats, notifications, direct messages, and search/explore functionality. Uses Zustand for state management and TypeScript throughout.
 
 ## Stack
