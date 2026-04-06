@@ -2,6 +2,16 @@
 
 ![CI](https://github.com/Shaisolaris/rn-social-media/actions/workflows/ci.yml/badge.svg)
 
+
+## Quick Start
+
+```bash
+git clone https://github.com/Shaisolaris/rn-social-media.git
+cd rn-social-media
+npm install --legacy-peer-deps
+npx expo start
+```
+
 React Native social media app built with Expo featuring an Instagram-style feed with stories, posts with likes/comments/bookmarks, user profiles with follower stats, notifications, direct messages, and search/explore functionality. Uses Zustand for state management and TypeScript throughout.
 
 ## Stack
