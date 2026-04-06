@@ -1,3 +1,4 @@
+import { } from "../data/demo";
 import React, { useEffect } from "react";
 import { View, Text, FlatList, StyleSheet } from "react-native";
 import { colors, spacing, fontSize } from "../theme/index.js";

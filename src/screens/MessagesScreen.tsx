@@ -1,3 +1,4 @@
+import { } from "../data/demo";
 import React from "react";
 import { View, Text, FlatList, StyleSheet, TouchableOpacity } from "react-native";
 import { colors, spacing, fontSize } from "../theme/index.js";
