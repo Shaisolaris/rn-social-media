@@ -3,6 +3,9 @@
 ![CI](https://github.com/Shaisolaris/rn-social-media/actions/workflows/ci.yml/badge.svg)
 
 
+
+React Native social media app with feed, stories, messaging, notifications, and profile management. Expo + TypeScript + Zustand.
+
 ## Quick Start
 
 ```bash
